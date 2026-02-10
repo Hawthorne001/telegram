@@ -7,4 +7,4 @@ mautrix>=0.21.0b5,<0.22
 tulir-telethon==1.99.0a6
 asyncpg>=0.20,<1
 mako>=1,<2
-setuptools
+setuptools<82
